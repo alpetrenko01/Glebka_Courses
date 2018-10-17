@@ -1,0 +1,3 @@
+﻿  Notation.cpp
+c:\users\алексей\source\repos\notation\notation\notation.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Notation.vcxproj -> C:\Users\Алексей\source\repos\Notation\Debug\Notation.exe
